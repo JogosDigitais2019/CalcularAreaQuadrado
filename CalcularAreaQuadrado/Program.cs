@@ -10,6 +10,7 @@ namespace CalcularAreaQuadrado
     {
         static void Main(string[] args)
         {
+            // calculo da área do quadrado
         }
     }
 }
